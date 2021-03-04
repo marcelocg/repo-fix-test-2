@@ -12,4 +12,4 @@ Make room for branching.
 
 Now the mess starts!!
 
-This is the bad content in MATSER that should be thrown away.
+This is the bad content in MAStER that should be thrown away.
