@@ -10,3 +10,5 @@ Some more content.
 
 Make room for branching.
 
+Throw away this content when branches are merged.
+
