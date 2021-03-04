@@ -8,8 +8,9 @@ Here goes some content.
 
 Some more content.
 
-Make room for branching.
+## Good content
 
-Now the mess starts!!
+This is good content.
 
-This is the bad content in MAStER that should be thrown away.
+In it's own section!!
+
